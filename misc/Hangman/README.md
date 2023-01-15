@@ -1,8 +1,12 @@
 ## HANGMAN
 The [rules](https://www.wikihow.com/Play-Hangman) of *Hangman* is as follows:
-* The game is played between two players
-* One player chooses a phrase, could be a random word or the name of anything
-* The player choosing the phrase draws the stage for hanging and puts dashes where letters of the phrase should go
-* 
-
+* The game is played between two players or more
+* One player chooses a phrase, which could be a random word or the name of anything.
+* The player choosing the phrase draws the stage for hanging and puts dashes where the letters of the phrase should go.
+* The rest of the players then need to guess the letters of the phrase one by one.
+* When the players guess a letter correctly, the other player has to put the letter in the blank places where it belongs.
+* At this point, the other players can guess the entire phrase based on the position of the letters they correctly guessed.
+* If the players guess a letter that doesn't belong to the phrase, it will count as a strike. In that case, first, the rope of the hangman will be drawn. The next strike will result in the drawingof the head, and so on.
+* After a total of six wrong guesses, the entire hangman will be drawn.
+* The game ends by correctly guessing the phrase or by the completion of the drawing of the hangman.
 **Unfinished**
