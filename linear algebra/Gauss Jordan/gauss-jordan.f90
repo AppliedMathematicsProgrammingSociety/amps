@@ -56,7 +56,7 @@ PROGRAM gaussian
                         a(j,k)=-a(j,i)
                         a(j,i)=temp
                     END DO
-
+                END IF
                 IF(z==2) THEN
                     EXIT
                 END IF
