@@ -6,7 +6,7 @@ The algorithm divides the input list into two parts: a sorted sublist of items w
 ### Animation
 ![Selection-Sort-Animation](https://user-images.githubusercontent.com/119177863/206866998-e702bb32-3afd-4d4e-896e-889d507e4256.gif)
 - Red = current minimum
-- Yellow = unsorted list
+- Yellow = sorted list
 - Blue  = current item
 
 ### Algorithm
