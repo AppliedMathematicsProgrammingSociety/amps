@@ -21,14 +21,11 @@ congruence 2x = k (mod n - 1) has exactly one solution with 1 ≤ x ≤ n - 1, b
 ### How it works
 for odd number of teams
 
-![1](https://user-images.githubusercontent.com/119177863/222917597-8178f8c4-b628-43d0-ba81-202ca7a86055.gif)
-
+![1](https://user-images.githubusercontent.com/119177863/222917706-5964037c-67b7-48c8-bdd2-d37ae148bd20.gif)
 
 for even number of teams
 
-![2](https://user-images.githubusercontent.com/119177863/222917606-be6debd4-0b4f-4015-a88f-18fa37216ec4.gif)
-
-
+![2](https://user-images.githubusercontent.com/119177863/222917716-6594b83f-bc22-4789-8a47-51695dffa424.gif)
 
 ### Algorithm
 ![round_robin_scheduling_algorithm](https://user-images.githubusercontent.com/119177863/222915973-0a6bdb3f-061f-4522-bdf2-6659fa0974c5.png)
