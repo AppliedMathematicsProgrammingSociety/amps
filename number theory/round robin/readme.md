@@ -20,10 +20,14 @@ congruence 2x = k (mod n - 1) has exactly one solution with 1 ≤ x ≤ n - 1, b
 
 ### How it works
 for odd number of teams
-![1_AdobeExpress](https://user-images.githubusercontent.com/119177863/222916493-26d69b86-88c3-483b-b3d7-ba769e52f9b6.gif)
+
+![1](https://user-images.githubusercontent.com/119177863/222917597-8178f8c4-b628-43d0-ba81-202ca7a86055.gif)
+
 
 for even number of teams
-![2_AdobeExpress](https://user-images.githubusercontent.com/119177863/222916500-354cba00-3573-4011-9a57-493ba4cf8620.gif)
+
+![2](https://user-images.githubusercontent.com/119177863/222917606-be6debd4-0b4f-4015-a88f-18fa37216ec4.gif)
+
 
 
 ### Algorithm
