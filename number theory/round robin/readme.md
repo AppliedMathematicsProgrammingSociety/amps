@@ -14,3 +14,20 @@ games for all teams in round k, except for team n and the one team i for which
 2i = k (mod n - 1). There is one such team because the
 congruence 2x = k (mod n - 1) has exactly one solution with 1 ≤ x ≤ n - 1, because
 (2, N - 1) = 1. We match this team i with team n in the kth round.
+
+### Teams
+![teams](https://user-images.githubusercontent.com/119177863/222916469-eb28ae0d-e6a3-4752-979a-f63ceb80321d.png)
+
+### How it works
+for odd number of teams
+![1_AdobeExpress](https://user-images.githubusercontent.com/119177863/222916493-26d69b86-88c3-483b-b3d7-ba769e52f9b6.gif)
+
+for even number of teams
+![2_AdobeExpress](https://user-images.githubusercontent.com/119177863/222916500-354cba00-3573-4011-9a57-493ba4cf8620.gif)
+
+
+### Algorithm
+![round_robin_scheduling_algorithm](https://user-images.githubusercontent.com/119177863/222915973-0a6bdb3f-061f-4522-bdf2-6659fa0974c5.png)
+
+### Flowchart
+![round_robin_scheduling_flowchart](https://user-images.githubusercontent.com/119177863/222915997-3495a609-2cb2-48a7-a1f4-0454c7b2ee17.png)
