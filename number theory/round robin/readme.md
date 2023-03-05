@@ -31,4 +31,5 @@ for even number of teams
 ![round_robin_scheduling_algorithm](https://user-images.githubusercontent.com/119177863/222915973-0a6bdb3f-061f-4522-bdf2-6659fa0974c5.png)
 
 ### Flowchart
-![round_robin_scheduling_flowchart](https://user-images.githubusercontent.com/119177863/222915997-3495a609-2cb2-48a7-a1f4-0454c7b2ee17.png)
+![round_robin_scheduling_flowchart](https://user-images.githubusercontent.com/119177863/222972147-6459ef0e-7d54-4694-9efa-dbb5cbebd42f.jpg)
+
