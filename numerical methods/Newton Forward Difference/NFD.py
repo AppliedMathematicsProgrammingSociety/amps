@@ -16,13 +16,12 @@ for j in range(1,n):
     for i in range(0,n-j):
         f[i][j] = f[i+1][j-1] - f[i][j-1]
 
-
 for j in range(1,n):
     M = 1
     for k in range(2,n):
         M = M*((r-(k-2))/(k-1))
-        if k == j+1: break
-    t = t + M*(f[0][j])
+        if k == j + 1 : break
+    t = t + M*f[0][j]
 
 df = pd.DataFrame(f) 
 df.to_csv('table.csv')
