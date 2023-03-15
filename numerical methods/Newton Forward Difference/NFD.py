@@ -1,3 +1,6 @@
+#Hunter: Tanvir Kabir '07
+#Gamemaker: Irteza Asif '06
+
 import numpy as np
 import pandas as pd
 dat = pd.read_csv('input.csv')
