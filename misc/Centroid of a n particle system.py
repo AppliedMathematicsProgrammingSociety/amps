@@ -41,3 +41,8 @@ print("Coord.s of the Centroid")
 print("X=",cntrx)
 print("Y=",cntry)
 print("Z=",cntrz)
+
+
+
+#GameMaker//ShajiratulYakeen
+#Assassin//NayeemulHasan
