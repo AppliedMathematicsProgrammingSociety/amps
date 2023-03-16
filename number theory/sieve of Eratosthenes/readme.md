@@ -11,3 +11,6 @@ The earliest known reference to the sieve is in
 [Nicomachus of Gerasa's](https://en.wikipedia.org/wiki/Nicomachus) [Introduction to Arithmetic](https://en.wikipedia.org/wiki/Introduction_to_Arithmetic), 
 an early 2nd century CE book which attributes it to [Eratosthenes of Cyrene](https://en.wikipedia.org/wiki/Eratosthenes), a 3rd century BCE 
 Greek mathematician, though describing the sieving by odd numbers instead of by primes.
+
+### How it works (for example for 121)
+![Animation_Sieve_of_Eratosth](https://user-images.githubusercontent.com/119177863/225650427-9e2da39e-ed9d-45f7-8737-2abbfd93f83f.gif)
