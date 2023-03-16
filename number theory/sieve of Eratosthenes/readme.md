@@ -14,3 +14,8 @@ Greek mathematician, though describing the sieving by odd numbers instead of by 
 
 ### How it works (for example for 121)
 ![Animation_Sieve_of_Eratosth](https://user-images.githubusercontent.com/119177863/225650427-9e2da39e-ed9d-45f7-8737-2abbfd93f83f.gif)
+**RED** = multiples of 2 
+**GREEN** = multiples of 3 
+**BLUE** = multiples of 5
+**YELLOW** = multiples of 7
+**PURPLE** = the rest of the numbers, i.e. PRIMES
