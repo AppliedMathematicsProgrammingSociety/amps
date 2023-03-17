@@ -1,0 +1,22 @@
+﻿Problem:
+Find all prime numbers less than a given number 
+
+
+Input:
+Integer n
+
+
+Output:
+All prime numbers < n, number of prime numbers < n
+
+
+Steps:
+1. Ask for n, echo
+2. If n positive
+   1. Initialize an a boolean list of length n consisting of ones
+   2. For all integers i less than ⌊√n⌋
+      1. If list(i) is one
+* All ones in the list that have an integer multiple index of i (less than n) are switched to zero
+   1. Print all the index values that have a 1 in their position = prime numbers
+   2. Count all such indices = Number of prime numbers
+3. If n not positive, go to step 1
