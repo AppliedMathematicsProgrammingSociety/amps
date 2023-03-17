@@ -1,0 +1,22 @@
+program bubble_sort
+    integer,dimension(9)::array
+    integer::temp,n,j
+    array=(/8,6,9,7,10,45,96,16,75/)
+    
+    !here is the defiantion of the array we can also take input from the user to create the array 
+    !we can should take input the dimension of the array we we don't want harcoded code
+   
+ 
+do n=1,9
+  do j=1,8
+     if(array(j)>array(j+1)) then
+        temp=array(j)
+       array(j)=array(j+1)
+       array(j+1)=temp
+      end if
+    end do
+    end do
+    
+print *,array
+
+end program bubble_sort
