@@ -27,3 +27,12 @@ Greek mathematician, though describing the sieving by odd numbers instead of by 
 
 
 **PURPLE** = the rest of the numbers, i.e. PRIMES
+
+### How it works
+![sieve_clip](https://user-images.githubusercontent.com/119177863/225984187-91912867-8a09-491e-b0c7-18d036a5dd51.gif)
+
+### Algorithm
+[sieve_algorithm.pdf](https://github.com/AppliedMathematicsProgrammingSociety/amps/files/11004389/sieve_algorithm.pdf)
+
+### Flowchart
+![sieve_flowchart](https://user-images.githubusercontent.com/119177863/225984285-cd2204eb-22a1-4fb2-95d8-1919cb093ef2.png)
