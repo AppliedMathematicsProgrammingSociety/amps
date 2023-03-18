@@ -36,4 +36,5 @@ Greek mathematician, though describing the sieving by odd numbers instead of by 
 
 
 ### Flowchart
-![sieve_flowchart](https://user-images.githubusercontent.com/119177863/225984285-cd2204eb-22a1-4fb2-95d8-1919cb093ef2.png)
+![sieve_flowchart](https://user-images.githubusercontent.com/119177863/226100386-45efce9d-619d-48d7-91cd-f128e8c036cb.png)
+
