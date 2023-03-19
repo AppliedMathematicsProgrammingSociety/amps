@@ -1,0 +1,12 @@
+ The truth table is :
+ ------------------
+    no      p     q      r
+    --     --     --     --
+     1      T     T     T
+     2      T     T     T
+     3      T     F     T
+     4      T     F     T
+     5      F     T     T
+     6      F     T     T
+     7      F     F     T
+     8      F     F     T

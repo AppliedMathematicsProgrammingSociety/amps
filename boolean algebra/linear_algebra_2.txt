@@ -1,0 +1,10 @@
+    x         y        x+y       xy     x xor y   x NAND y    x NOR Y
+    -         -        ---       --     -------   --------    -------
+    0         0         0         0         0         1         1
+    0         1         1         0         1         1         0
+    1         0         1         0         1         1         0
+    1         1         1         1         0         0         0
+
+Process returned 0 (0x0)   execution time : 0.053 s
+Press any key to continue.
+
