@@ -11,3 +11,7 @@
 
 ### Flowchart : 
 ![rps_flowchart](https://user-images.githubusercontent.com/119177863/206543478-317ed67b-c87e-4f08-98bd-5a41a823593c.png)
+
+### In action
+![rps](https://user-images.githubusercontent.com/119177863/227782088-596450fa-2523-46a6-94d1-6d31a2b76522.gif)
+
