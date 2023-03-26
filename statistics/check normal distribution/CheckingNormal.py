@@ -22,8 +22,8 @@ print("Verifying using empirical rule-\n")
 mean = np.mean(data)
 std = np.std(data)
 
-print(F"Mean: {mean}")
-print(F"Standard deviation: {std}\n")
+print(f"Mean: {mean}")
+print(f"Standard deviation: {std}\n")
 
 oneStd = (mean - std, mean + std)
 twoStd = (mean - 2 * std, mean + 2 * std)
@@ -41,3 +41,6 @@ if within_oneStd < 0.68 or within_twoStd < 0.95 or within_threeStd < 0.997:
     print(data, "does not follows the Normal distribution.")
 else:
     print(data, "follows the Normal distribution")
+
+    
+ # Muhammad Sazzad Abrar Saad - 26/03/2023
