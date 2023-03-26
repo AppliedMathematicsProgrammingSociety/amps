@@ -11,7 +11,7 @@
 8. Calculate the percentage of data within each range.
 9. Check if the percentage of data within one, two, and three standard deviations of the mean is less than *68%, 95%, and 99.7%*, respectively.
 10. If the percentage of data within one, two, and three standard deviations of the mean is less than the respective thresholds, then the dataset does not follow a normal distribution.
-11. If the dataset does not follow a normal distribution, print "does not follow the Normal distribution."
+11. If the dataset does not follow a normal distribution, print "does not follows the Normal distribution."
 12. If the dataset follows a normal distribution, print "follows the Normal distribution."
 
 ### Code description :
@@ -21,7 +21,7 @@ The next section uses the **empirical rule** to calculate the mean and *standard
 
 If the percentage of data within one, two, and three standard deviations of the mean is less than *68%, 95%, and 99.7%*, respectively, then the dataset does not follow a normal distribution.
 
-The code then prints the result whether the dataset follows a normal distribution or not. If it does, it prints "follows the Normal distribution," and if it does not, it prints "does not follow the Normal distribution."
+The code then prints the result whether the dataset follows a normal distribution or not. If it does, it prints "follows the Normal distribution," and if it does not, it prints "does not follows the Normal distribution."
 
 ## Sample run :
 
