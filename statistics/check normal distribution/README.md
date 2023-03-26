@@ -23,5 +23,6 @@ If the percentage of data within one, two, and three standard deviations of the 
 
 The code then prints the result whether the dataset follows a normal distribution or not. If it does, it prints "follows the Normal distribution," and if it does not, it prints "does not follows the Normal distribution."
 
-## Sample run :
-
+### Sample run :
+![graph_checkNormal jpeg](https://user-images.githubusercontent.com/124142616/227764729-185d2913-c875-4135-9747-dde93589f667.png)
+![run_checkNormal jpeg](https://user-images.githubusercontent.com/124142616/227764881-55d20588-23f7-4c6d-8214-b205fdf46b6e.png)
