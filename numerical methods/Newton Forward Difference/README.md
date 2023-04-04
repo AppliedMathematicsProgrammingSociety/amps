@@ -12,6 +12,4 @@ After its run, the difference table for this program will be generated in a CSV 
 
 ![](https://raw.githubusercontent.com/AppliedMathematicsProgrammingSociety/amps/main/numerical%20methods/Newton%20Forward%20Difference/media/out_table.png)
 
-Also, there is the fortran code for it where the difference table is outputted in the terminal itself:
-
-![](https://raw.githubusercontent.com/AppliedMathematicsProgrammingSociety/amps/main/numerical%20methods/Newton%20Forward%20Difference/media/fortran_out.png)
+Also, the fortran code will be uploaded soon.
