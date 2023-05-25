@@ -28,3 +28,7 @@ The given code is a number-guessing game where the user has to guess a randomly 
 14. Repeat from step 8.
 15. After the loop ends, print the number of guesses the user took to guess the number.
 16. End the program.
+
+### Sample Run:
+
+https://github.com/AppliedMathematicsProgrammingSociety/amps/assets/124142616/4a730fb8-f7bf-4fd6-92a9-73aa1503d5d4
