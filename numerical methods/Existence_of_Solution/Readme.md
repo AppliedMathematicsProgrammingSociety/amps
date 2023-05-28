@@ -2,12 +2,12 @@
 # Existence of a solution
 
 ### Code Description
-
+***
 This Program reads the degree and coefficients of a polynomial, the interval limits, and calculates the values of the polynomial at the interval endpoints. By checking the signs of the function values, it determines whether the polynomial has at least one solution in the given interval.
 
 
 ### Algorithm
-
+***
 1. Start the program.
 
 2. Read the degree of the polynomial, n, from the user.
@@ -32,5 +32,8 @@ Else, display "The polynomial has no solution in the interval [p,q]."
 
 9. End the program.
 
+### Sample Run
+***
+![Existence_0f_Solution](https://github.com/AppliedMathematicsProgrammingSociety/amps/assets/107662745/74ba1fc2-e7fd-4baf-a710-7e0e84ae862a)
 
 
