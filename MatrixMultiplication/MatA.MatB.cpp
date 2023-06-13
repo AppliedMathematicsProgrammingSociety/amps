@@ -1,6 +1,7 @@
 //////////////////////Matrix Multiplication////////////////////////
 
 
+
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -8,21 +9,23 @@ using namespace std;
 int main()
 {
     int a,b,c,d;
-  
-  //Prompt:Matrix Size
     cout<<"Size of Matrix A: ";
     cin>>a>>b;
     cout<<"Size of Matrix B: ";
     cin>>c>>d;
 
-  //defining 2 faka array
+    if(b!=c)
+    {
+        cout<<"Yampossible!"<<endl;
+    }
+    else
+    {
+        
     int MatA[a][b];
     int MatB[c][d];
 
     cout<<" "<<endl;
     cout<<"Insert Matrix A"<<endl;
-  
-  //Prompt: Matrix A
     for(int i=0; i<a;i++)
     {
         for(int j=0;j<b;j++)
@@ -30,8 +33,7 @@ int main()
             cin>>MatA[i][j];
         }
     }
-  
-  //Prompt: Matrix B
+
     cout<<" "<<endl;
     cout<<"Insert Matrix B"<<endl;
     for(int i=0; i<c;i++)
@@ -68,12 +70,10 @@ int main()
     // cout<<endl;
     // }
 
-  
-//Multiplication in progress . . . 
+
     cout<<" "<<endl;
     cout<<"Matrix AB"<<endl;
     cout<<"`````````"<<endl;
-  
     int sum;
     for(int i=0; i<a;i++)
     {
@@ -88,10 +88,11 @@ int main()
         }        
     cout<<endl;
     }
+    
+    }
+
 
 
     return 0;
 }
 
-
-//NayeemulHasan
