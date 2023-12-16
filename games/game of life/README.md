@@ -13,4 +13,4 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 
 # Working Scenario
-![](https://github.com/haqueWasif/Game-Of-Life/blob/main/Working_Scenario)
+![](https://github.com/haqueWasif/Game-Of-Life/blob/main/GIF/Working_Scenario.gif)
