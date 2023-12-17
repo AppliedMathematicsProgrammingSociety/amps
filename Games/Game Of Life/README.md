@@ -14,3 +14,6 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 # Working Scenario
 ![](https://github.com/haqueWasif/Game-Of-Life/blob/main/GIF/Working_Scenario.gif)
+
+# Installation Guide
+I have provided a tutorial video for installing SDL2 and SDL2_image.
