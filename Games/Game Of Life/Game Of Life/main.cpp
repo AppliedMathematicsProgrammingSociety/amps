@@ -1,3 +1,5 @@
+// By Wasiful Haque (17th December 2023)
+
 #include "game.h"
 
 int main(int args, char* argv[]) {
