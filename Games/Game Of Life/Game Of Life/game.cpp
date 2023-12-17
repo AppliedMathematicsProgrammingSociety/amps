@@ -1,3 +1,5 @@
+// By Wasiful Haque (17th December 2023)
+
 #include "game.h"
 
 int black[] = { 0, 0, 0 };
