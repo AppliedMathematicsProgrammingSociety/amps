@@ -8,13 +8,13 @@ Your task is to find out the **minimum number of roads required** and also deter
 
 ### Input:
 1. The first input line has two integers \( n \) and \( m \):  
-   - \( n \): the number of cities.  
-   - \( m \): the number of existing roads.
-2. The next \( m \) lines describe the existing roads. Each line has two integers \( a \) and \( b \), indicating there is a road between these two cities.
+   - n: the number of cities.  
+   - m: the number of existing roads.
+2. The next m lines describe the existing roads. Each line has two integers a and b, indicating there is a road between these two cities.
 
 ### Output:
-1. Print an integer \( k \): the number of required roads.  
-2. Print \( k \) lines describing the new roads to be built. Each line contains two integers \( u \) and \( v \), representing a road to be built. You can print any valid solution.
+1. Print an integer k: the number of required roads.  
+2. Print k lines describing the new roads to be built. Each line contains two integers u  and v , representing a road to be built. You can print any valid solution.
 
 ### Constraints:
 - 1 <= n <= 10^5  
