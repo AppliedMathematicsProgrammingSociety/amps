@@ -43,3 +43,38 @@ The cities are grouped into two connected components: {1, 2} and {3, 4}. To conn
 
 ---
 
+
+## BFS Problem: Minimum Moves for Knights to Meet
+
+Given an 8x8 chessboard, two knights start at different positions. Your task is to determine the minimum number of moves required for each knight to reach a given destination on the board.
+
+### Input Format:
+1. The initial position of **Knight 1** as two integers.
+2. The initial position of **Knight 2** as two integers.
+3. The target position (destination) as two integers. 
+
+### Output Format:
+1. The minimum number of moves required for **Knight 1** to reach the destination.
+2. The minimum number of moves required for **Knight 2** to reach the destination.
+
+### Constraints:
+1. The chessboard size is fixed at **8x8**.
+2. Knights move in an "L" shape, i.e., they can move two squares in one direction and one square perpendicular to that, or vice versa.
+3. The input positions and destination are guaranteed to lie within the bounds of the chessboard.
+
+### Sample Input/Output:
+#### Input:
+```
+Initial coordinate of knight 1: 0 0
+Initial coordinate of knight 2: 7 7
+Final coordinate where both meet: 4 4
+```
+
+#### Output:
+```
+It will take minimum 4 moves for knight 1
+It will take minimum 2 moves for knight 2
+```
+
+
+
