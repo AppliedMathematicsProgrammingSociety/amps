@@ -17,9 +17,9 @@ Your task is to find out the **minimum number of roads required** and also deter
 2. Print \( k \) lines describing the new roads to be built. Each line contains two integers \( u \) and \( v \), representing a road to be built. You can print any valid solution.
 
 ### Constraints:
-- \( 1 \leq n \leq 10^5 \)  
-- \( 1 \leq m \leq 2 \cdot 10^5 \)  
-- \( 1 \leq a, b \leq n \)
+- 1 <= n <= 10^5  
+- 1 <= m <= 2 * 10^5   
+- 1 <= a, b <= n
 
 ---
 
@@ -39,21 +39,7 @@ Your task is to find out the **minimum number of roads required** and also deter
 ```
 
 ### Explanation:
-The cities are grouped into two connected components: \(\{1, 2\}\) and \(\{3, 4\}\). To connect all cities, one road is needed between these two groups (e.g., between city 2 and city 3).
+The cities are grouped into two connected components: {1, 2} and {3, 4}. To connect all cities, one road is needed between these two groups (e.g., between city 2 and city 3).
 
 ---
 
-## How to Solve
-
-1. **Find Connected Components**:
-   Use DFS or BFS to identify all connected components in the graph.
-
-2. **Connect Components**:
-   To connect all cities, add roads between representatives of different connected components.
-
-3. **Output Results**:
-   Print the number of new roads needed and the pairs of cities to be connected.
-
----
-
-Feel free to clone the repository and implement your solution! 😊
