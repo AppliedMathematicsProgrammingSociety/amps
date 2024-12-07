@@ -44,7 +44,7 @@ The cities are grouped into two connected components: {1, 2} and {3, 4}. To conn
 ---
 
 
-## BFS Problem: Minimum Moves for Knights to Meet
+# BFS Problem: Minimum Moves for Knights to Meet
 
 Given an 8x8 chessboard, two knights start at different positions. Your task is to determine the minimum number of moves required for each knight to reach a given destination on the board.
 
