@@ -1,13 +1,13 @@
 # Building Roads
 
-Byteland has \( n \) cities and \( m \) roads between them. The goal is to construct new roads so that there is a route between any two cities.
+Byteland has n cities and m roads between them. The goal is to construct new roads so that there is a route between any two cities.
 
 Your task is to find out the **minimum number of roads required** and also determine which roads should be built.
 
 ## Problem Description
 
 ### Input:
-1. The first input line has two integers \( n \) and \( m \):  
+1. The first input line has two integers n and m :  
    - n: the number of cities.  
    - m: the number of existing roads.
 2. The next m lines describe the existing roads. Each line has two integers a and b, indicating there is a road between these two cities.
