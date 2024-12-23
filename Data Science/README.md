@@ -19,7 +19,8 @@ This folder aims to serve as a **comprehensive resource hub** for students inter
 ## 📂 Folder Structure Overview
 
 - **Python Basics:** Introductory lessons for Python programming fundamentals.  
-- **Python Libraries:** Deep dive into key Python libraries used in Data Science.  
+- **Python Libraries:** Deep dive into key Python libraries used in Data Science. 
+- **Mathematics for Data Science:** A strong foundation in Mathematics is essential for understanding Data Science and Machine Learning concepts. 
 - **Machine Learning:** Explanation and implementation of ML algorithms with examples.  
 - **Projects:** Practical projects to apply theoretical knowledge.  
 - **Resources:** A curated list of books, courses, and learning materials.  
